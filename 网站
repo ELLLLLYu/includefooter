@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<meta charset="UTF-8">
+<title>研发</title>
+<body>
+    
+    <h1>研发1 </h1>
+ 
+
+    <p style="color: rgb(255, 0, 0);">研发2</p>
+<hr/>
+    <p>研发3<br>试剂盒1<br>试剂盒2<br>试剂盒3
+        <img src="图片.png" alt="图片"></p>
+<hr/>
+
+    <p style="background-color:green;">研发4</p>
+    <a href="https://www.iqiyi.com/?vfm=f_588_wrb&fv=ac30238882b84c8c">https://www.iqiyi.com/?vfm=f_588_wrb&fv=ac30238882b84c8c</a>
+   
+    <h2>研发
+    <p>第一、
+        第二、
+         第三、
+          第四</p><!--一共四个-->
+          </h2>
+          <b>加粗文本</b>
+<i>斜体文本</i>
+<code>电脑自动输出</code>
+这是 <sub> 下标</sub> 和 <sup> 上标</sup>
+    </body>
+</html>
+
